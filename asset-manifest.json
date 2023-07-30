@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/collect-user-data/static/css/main.46391741.css",
+    "main.js": "/collect-user-data/static/js/main.27605cc0.js",
+    "index.html": "/collect-user-data/index.html",
+    "main.46391741.css.map": "/collect-user-data/static/css/main.46391741.css.map",
+    "main.27605cc0.js.map": "/collect-user-data/static/js/main.27605cc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46391741.css",
+    "static/js/main.27605cc0.js"
+  ]
+}
